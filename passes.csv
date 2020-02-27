@@ -1,0 +1,9 @@
+origin,destination,seat,method
+AAA,BBB,seat_a,method_a
+BBB,CCC,seat_b,method_b
+CCC,DDD,seat_c,method_c
+DDD,EEE,seat_d,method_d
+EEE,FFF,seat_e,method_e
+FFF,GGG,seat_f,method_f
+GGG,HHH,seat_g,method_g
+HHH,III,seat_i,method_i
