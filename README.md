@@ -11,3 +11,11 @@ In a real world, I would create some sort of Interface that would define some me
 I sort of cheated to since I rushed and put references to "next" and "previous" directly into the "Card" class.
 
 This would obviously not be ok in a real world.
+
+
+
+TO RUN:
+
+"python Card.py"
+
+There is output that I have commented out.   The program basically runs several iterations of sorting a random set of cards.
